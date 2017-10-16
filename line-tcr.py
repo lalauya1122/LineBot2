@@ -88,7 +88,7 @@ Cmid = kc.getProfile().mid
 Bots = [mid,Amid,Bmid,Cmid,]
 admin = ["u5aa2d0aa38b6566631c797f0334ae415","u85326fcaa03d37e33403c3281943aaef","u3a8f175f00cd198a04be74e8ea90dec5"]
 staff = ["u5aa2d0aa38b6566631c797f0334ae415","u85326fcaa03d37e33403c3281943aaef","u3a8f175f00cd198a04be74e8ea90dec5"]
-adminMID = "u5aa2d0aa38b6566631c797f0334ae415"
+adminMID = "ua900e1ba4a91a01b7de658f26471c510"
 wait = {
     'contact':True,
     'autoJoin':True,
@@ -126,19 +126,19 @@ cancelinvite = {
     'autoCancelUrl':True
 }
 
-#bot1_name = {
-#    "1" : "[Ardh-]BOT1",
-#    "2" : "Ardh-]BOT1[",
-#    "3" : "rdh-]BOT1[A",
-#    "4" : "dh-]BOT1[Ar",
-#    "5" : "h-]BOT1[Ard",
-#    "6" : "-]BOT1[Ardh",
-#    "7" : "]BOT1[Ardh-",
-#    "8" : "BOT1[Ardh-]",
-#    "9" : "OT1[Ardh-]B",
-#    "10" : "T1[Ardh-]BO",
-#    "11" : "1[Ardh-]BOT"
-#}
+bot1_name = {
+    "1" : "[Ardh-]BOT1",
+    "2" : "Ardh-]BOT1[",
+    "3" : "rdh-]BOT1[A",
+    "4" : "dh-]BOT1[Ar",
+    "5" : "h-]BOT1[Ard",
+    "6" : "-]BOT1[Ardh",
+    "7" : "]BOT1[Ardh-",
+    "8" : "BOT1[Ardh-]",
+    "9" : "OT1[Ardh-]B",
+    "10" : "T1[Ardh-]BO",
+    "11" : "1[Ardh-]BOT"
+}
 #bot2_name = {
 #    "1" : "[Ardh-]BOT2",
 #    "2" : "Ardh-]BOT2[",
